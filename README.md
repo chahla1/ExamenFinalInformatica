@@ -7,5 +7,6 @@ definir cuantas columnas mostrar en funcion del tamaño de pantalla.
 
 En la parte de JavaScript, he usado js para que los usuarios puedan añadir entradas sin tener que recargar la pagina. 
 Ademas de esto, he añadido un boton de eliminar debajo de cada entrada para que sea mas facil borrarlo si el usuario lo desea.
+Esto se consigue utilizando addEventListener para manejar eventos.
 
 
